@@ -1,12 +1,12 @@
 fastapi
 uvicorn
 pandas
-numpy<2.0.0
+numpy<1.26.0
 prophet
 xgboost
 statsmodels
 scikit-learn
-tensorflow-cpu
+tensorflow-cpu==2.10.0
 openpyxl
 python-docx
 requests
